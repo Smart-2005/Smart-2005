@@ -26,7 +26,7 @@
   <code><img height="40" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></code>
   <code><img height="40" src="https://skillicons.dev/icons?i=materialui" alt="Material UI"></code>
 
-  <div align="center" style="padding-top="30px 0px">
+  <div align="center" style="padding="10px 0px">
       <br><br> 
   </div>
 
@@ -34,7 +34,7 @@
   <code><img height="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></code>
   <code><img height="40" src="https://skillicons.dev/icons?i=firebase" alt="Firebase"></code> 
   
-  <div align="center" style="padding-top="30px 0px">
+  <div align="center" style="padding="10px 0px">
       <br><br> 
   </div>
   <code><img height="40" src="https://skillicons.dev/icons?i=git" alt="Git"></code>
